@@ -4,4 +4,4 @@
 
 英文版：被美国管理学年会（顶级会议论文）收录【url: https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.10474abstract  】
 
-## 英文版论文节选（前15页）请参考：[pdf链接/The impact of danmaku information quality on consumers’ impulsive consumption behavior](https://github.com/coco2023/live-streaming-consumer/blob/main/The%20impact%20of%20danmaku%20information%20quality%20on%20consumers%E2%80%99%20impulsive%20consumption%20behavior%20_Keyu%20Han_15Pages.pdf) 
+## 英文版论文节选（前15页）：[pdf：The impact of danmaku information quality on consumers’ impulsive consumption behavior](https://github.com/coco2023/live-streaming-consumer/blob/main/The%20impact%20of%20danmaku%20information%20quality%20on%20consumers%E2%80%99%20impulsive%20consumption%20behavior%20_Keyu%20Han_15Pages.pdf) 
