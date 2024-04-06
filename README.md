@@ -6,7 +6,7 @@
 
 ## 英文版论文节选（前15页）：[pdf：The impact of danmaku information quality on consumers’ impulsive consumption behavior](https://github.com/coco2023/live-streaming-consumer/blob/main/The%20impact%20of%20danmaku%20information%20quality%20on%20consumers%E2%80%99%20impulsive%20consumption%20behavior%20_Keyu%20Han_15Pages.pdf) 
 
-# 英文初稿编写记录
+# 英文初稿编写记录(负责除论文署名,投稿,润色外的全部论文写作工作)
 <!-- <img src="https://raw.githubusercontent.com/coco2023/live-streaming-consumer/main/%E5%BC%95%E7%94%A8%E4%B8%8E%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E8%AE%B0%E5%BD%95/%E8%AE%BA%E6%96%87%E5%88%9D%E7%A8%BF%E7%BC%96%E5%86%99%E8%AE%B0%E5%BD%95.png" width="200" /> -->
 
 ![](/引用与论文写作记录/intro.png)
