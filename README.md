@@ -2,10 +2,9 @@
 
 ## 中文版论文pdf（全文）：https://koko2023.github.io/files/keyuhan_2021_chinese_version.pdf
 
-## 英文版论文pdf（全文）：[The impact of danmaku information quality on consumers’ impulsive consumption behavior](https://github.com/coco2023/live-streaming-consumer/blob/main/The%20impact%20of%20danmaku%20information%20quality%20on%20consumers%E2%80%99%20impulsive%20consumption%20behavior%20_Keyu%20Han_15Pages.pdf) 
-https://koko2023.github.io/files/keyuhan_2022_english.pdf
+## 英文版论文pdf（全文）：https://koko2023.github.io/files/keyuhan_2022_english.pdf
 
-英文版收录于[美国管理学年会（顶级会议论文）](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.10474abstract)
+收录于[美国管理学年会（顶级会议论文）](https://journals.aom.org/doi/abs/10.5465/AMPROC.2023.10474abstract)
 
 <!-- <img src="https://raw.githubusercontent.com/coco2023/live-streaming-consumer/main/%E5%BC%95%E7%94%A8%E4%B8%8E%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C%E8%AE%B0%E5%BD%95/%E8%AE%BA%E6%96%87%E5%88%9D%E7%A8%BF%E7%BC%96%E5%86%99%E8%AE%B0%E5%BD%95.png" width="200" /> 
 ![](/引用与论文写作记录/intro.png)
